@@ -1,4 +1,4 @@
-hereexports.ETEGE2 = { 
+exports.ETEGE2 = { 
     
    upStair: function( size, material ) { 
      if( material == undefined ) { 
